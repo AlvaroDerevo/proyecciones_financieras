@@ -1,0 +1,8 @@
+id: flow.proyecciones-financieras
+name: Proyecciones financieras de negocio
+version: 0.0.0
+level: experimental
+status: active
+note: |
+  Experimental flow. Near-empty; accretes method (rules, terms, decisions) from this Pod through
+  ratified promotions. Carries craft only — never personal data.
